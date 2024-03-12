@@ -1,0 +1,46 @@
+{
+  "app_title": "BeautyBar",
+  "introduction_title": "Beauty Bar by Brenda",
+  "introduction_location_info": "Home-Based Indianapolis, Indiana",
+  "introduction_body_text": "Radiant Reflections: Elevate your beauty with exquisite aesthetics",
+  "introduction_book_button": "Book",
+  "introduction_book_button_alt_text": "Button to book",
+  "introduction_instagram_alt_text": "Instagram icon button",
+  "introduction_facebook_alt_text": "Facebook icon button",
+  "about_image_alt_text": "Image of Brenda",
+  "about_title": "Meet Brenda",
+  "about_body_text": "Brenda, an aesthetician, stumbled upon her passion for skincare through a friend's introduction. Intrigued by the transformative effects of beauty treatments, she pursued cosmetology courses and apprenticed under experienced mentors. Drawing from her own skin struggles, Brenda approaches her craft with empathy, aiming not just to enhance outer beauty but to boost inner confidence. With dedication and skill, she has carved her place in the aesthetics field, where she continues to empower clients through her expertise and genuine care.",
+  "services_title": "Services",
+  "services_cards": [
+    {
+      "name": "Lashes",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "viPath": "assets/videos/facial-service",
+      "bookURL": "https://squareup.com/appointments/buyer/widget/xjzjp0r2csbt2g/LW5R8AXFXWGNP"
+    },
+    {
+      "name": "Waxing",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "viPath": "assets/images/waxing.jpg",
+      "bookURL": "https://squareup.com/appointments/buyer/widget/onnkkjucy3jk1u/LW5R8AXFXWGNP"
+    },
+    {
+      "name": "Brows",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "viPath": "assets/images/brows.jpg",
+      "bookURL": "https://squareup.com/appointments/buyer/widget/2gjww99797plbe/LW5R8AXFXWGNP"
+    },
+    {
+      "name": "Facials",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "viPath": "assets/videos/facial-service",
+      "bookURL": "https://squareup.com/appointments/buyer/widget/2y4rp3icid9lq0/LW5R8AXFXWGNP"
+    }
+  ],
+  "services_cards_book_button": "Book",
+  "footer_brand_name": "Beauty Bar By Brenda",
+  "footer_location_info": "Licensed Esthetician based in Indianapolis, Indiana.",
+  "footer_made_by": "Made by Leo",
+  "footer_contact_text": "Contact",
+  "footer_email": "Email"
+}

@@ -1,0 +1,46 @@
+{
+  "app_title": "Barra de belleza",
+  "introduction_title": "Barra de belleza de Brenda",
+  "introduction_location_info": "Desde casa en Indianápolis, Indiana",
+  "introduction_body_text": "Reflejos Radiantes: Eleva tu belleza con una estética exquisita",
+  "introduction_book_button": "Reservar",
+  "introduction_book_button_alt_text": "Botón para reservar",
+  "introduction_instagram_alt_text": "Botón del icono de Instagram",
+  "introduction_facebook_alt_text": "Botón de icono de facebook",
+  "about_image_alt_text": "Imagen de Brenda",
+  "about_title": "Conoce a Brenda",
+  "about_body_text": "Brenda, una esteticista, descubrió su pasión por el cuidado de la piel gracias a la presentación de una amiga. Intrigada por los efectos transformadores de los tratamientos de belleza, siguió cursos de cosmetología y trabajó como aprendiz con mentores experimentados. A partir de los problemas de su propia piel, Brenda aborda su oficio con empatía, con el objetivo no solo de realzar la belleza exterior sino también de aumentar la confianza interior. Con dedicación y habilidad, se ha labrado un lugar en el campo de la estética, donde continúa empoderando a los clientes a través de su experiencia y atención genuina.",
+  "services_title": "Servicios",
+  "services_cards": [
+    {
+      "name": "Pestañas",
+      "description": "Es importante cuidar al paciente, ser seguido por el paciente, pero sucederá en un momento en el que hay mucho trabajo y dolor. Porque, para llegar al más mínimo detalle, nadie debe practicar ningún tipo de trabajo a menos que obtenga algún beneficio de él. No se enoje con el dolor en la reprensión, en el placer quiere ser un cabello del dolor, déjelo huir del dolor. A menos que estén cegados por la lujuria, no salen adelante; son culpables los que abandonan sus deberes y ablandan su corazón, es decir, sus trabajos.",
+      "viPath": "assets/videos/facial-service",
+      "bookURL": "https://squareup.com/appointments/buyer/widget/xjzjp0r2csbt2g/LW5R8AXFXWGNP"
+    },
+    {
+      "name": "Depilación",
+      "description": "Es importante cuidar al paciente, ser seguido por el paciente, pero sucederá en un momento en el que hay mucho trabajo y dolor. Porque, para llegar al más mínimo detalle, nadie debe practicar ningún tipo de trabajo a menos que obtenga algún beneficio de él. No se enoje con el dolor en la reprensión, en el placer quiere ser un cabello del dolor, déjelo huir del dolor. A menos que estén cegados por la lujuria, no salen adelante; son culpables los que abandonan sus deberes y ablandan su corazón, es decir, sus trabajos.",
+      "viPath": "assets/images/waxing.jpg",
+      "bookURL": "https://squareup.com/appointments/buyer/widget/onnkkjucy3jk1u/LW5R8AXFXWGNP"
+    },
+    {
+      "name": "Cejas",
+      "description": "Es importante cuidar al paciente, ser seguido por el paciente, pero sucederá en un momento en el que hay mucho trabajo y dolor. Porque, para llegar al más mínimo detalle, nadie debe practicar ningún tipo de trabajo a menos que obtenga algún beneficio de él. No se enoje con el dolor en la reprensión, en el placer quiere ser un cabello del dolor, déjelo huir del dolor. A menos que estén cegados por la lujuria, no salen adelante; son culpables los que abandonan sus deberes y ablandan su corazón, es decir, sus trabajos.",
+      "viPath": "assets/images/brows.jpg",
+      "bookURL": "https://squareup.com/appointments/buyer/widget/2gjww99797plbe/LW5R8AXFXWGNP"
+    },
+    {
+      "name": "Tratamientos faciales",
+      "description": "Es importante cuidar al paciente, ser seguido por el paciente, pero sucederá en un momento en el que hay mucho trabajo y dolor. Porque, para llegar al más mínimo detalle, nadie debe practicar ningún tipo de trabajo a menos que obtenga algún beneficio de él. No se enoje con el dolor en la reprensión, en el placer quiere ser un cabello del dolor, déjelo huir del dolor. A menos que estén cegados por la lujuria, no salen adelante; son culpables los que abandonan sus deberes y ablandan su corazón, es decir, sus trabajos.",
+      "viPath": "assets/videos/facial-service",
+      "bookURL": "https://squareup.com/appointments/buyer/widget/2y4rp3icid9lq0/LW5R8AXFXWGNP"
+    }
+  ],
+  "services_cards_book_button": "Reservar",
+  "footer_brand_name": "Barra de belleza de Brenda",
+  "footer_location_info": "Esteticista licenciada con sede en Indianápolis, Indiana.",
+  "footer_made_by": "Hecho por leo",
+  "footer_contact_text": "Contacto",
+  "footer_email": "Correo electrónico"
+}
